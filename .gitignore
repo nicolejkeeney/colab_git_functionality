@@ -1,0 +1,8 @@
+# Mac OS-specific storage files
+.DS_Store
+
+# config file with GitHub access key 
+config.py
+
+# secret json key 
+download_files_from_drive/client_secrets.json
